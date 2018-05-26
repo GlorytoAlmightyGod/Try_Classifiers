@@ -34,7 +34,7 @@ from sklearn.linear_model import Ridge
 from sklearn.pipeline import make_pipeline
 
 
-file = 'Assignment_File.xlsx'   # Assign spreadsheet filename to `file`
+file = 'training_data.xlsx'   # Assign spreadsheet filename to `file`
 
 xl = pd.ExcelFile(file)         # Load spreadsheet
 
