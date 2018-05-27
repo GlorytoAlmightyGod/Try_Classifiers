@@ -1,6 +1,6 @@
 # Try_Classifiers
 
-    - This program can be used to any dataset with any number of labels with the assumption that first coloumn is the desired         value and rest of the coloumns are training parameters/labels/independent variables etc.
+    - This program can be used to any dataset with any number of labels with the assumption that first column is the desired         value and rest of the coloumns are training parameters/labels/independent variables etc.
     
     - Attached program analyzes these models one by one -> Linear regression, Polynomial regression, SVM, Random Forests.
 
